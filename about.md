@@ -4,7 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! My name is Manav Narang.
+
+I am a 20 year old programmer and freshman. I am a Student of Computer Science and Engineering. I spend most of my time with my gadgets and making projects on Internet Of Thing(IOT).
+
+I am working on some projects like Voice Control Robot Car etc. Voice Control Robot Car is car made using various sensors and raspberry pi 4 b+ model which works on voice commands and captures photos and videos of current location.
+
+I am a competitive programmer.
 
 ### More Information
 
