@@ -1,7 +1,7 @@
 ---
 title: '30 Days of Code By HackerRank'
 date: 2020-04-13
-permalink: /posts/2020/04/HackerRank_30_Days_of_Code/Get-started-with-coding
+permalink: /posts/2020/04/HackerRank_30_Days_of_Code/
 redirect_from: /posts/2020/04/HackerRank_30_Days_of_Code/
 tags:
   - python
